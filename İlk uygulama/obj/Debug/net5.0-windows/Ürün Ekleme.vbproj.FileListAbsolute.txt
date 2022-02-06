@@ -1,0 +1,19 @@
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\bin\Debug\net5.0-windows\Ürün Ekleme.exe
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\bin\Debug\net5.0-windows\Ürün Ekleme.deps.json
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\bin\Debug\net5.0-windows\Ürün Ekleme.runtimeconfig.json
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\bin\Debug\net5.0-windows\Ürün Ekleme.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\bin\Debug\net5.0-windows\Ürün Ekleme.dll
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\bin\Debug\net5.0-windows\ref\Ürün Ekleme.dll
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\bin\Debug\net5.0-windows\Ürün Ekleme.pdb
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.vbprojAssemblyReference.cache
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\HesapMakinesi.Form1.resources
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\HesapMakinesi.Resources.resources
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.vbproj.GenerateResource.cache
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.AssemblyInfo.vb
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.vbproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.dll
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\ref\Ürün Ekleme.dll
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.pdb
+C:\Users\Mert\source\repos\19010207005MertDağdeviren\obj\Debug\net5.0-windows\Ürün Ekleme.genruntimeconfig.cache
